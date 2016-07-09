@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nmav/af_ktls.svg?branch=master)](https://travis-ci.org/ktls/af_ktls)
+
 # Linux Kernel TLS/DTLS Socket
 
 *Note that the implementation is under heavy development. Use on your own risk!*
